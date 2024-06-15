@@ -1,0 +1,20 @@
+{
+  "name": "create-deploy",
+  "version": "1.0.0",
+  "description": "How to deploy bankend code in production",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deploy",
+    "node",
+    "backend"
+  ],
+  "author": "shubh_patil",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  }
+}
